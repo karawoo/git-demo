@@ -1,5 +1,5 @@
 # Materials from the intermediate git demonstration.
 
-Hooray!
+Hooray! Will this change be preserved?
 
 Here is another line in the README.
