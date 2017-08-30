@@ -8,4 +8,13 @@ I am working on the dev branch. Here is a change.
 
 Add still one more line.
 
+asdfksldjf
+sldfjsldkjf
+
 Add a line that will become a merge conflict.
+
+jas;ldkfjslj
+''laslj
+
+lsjflkjs
+falsdkjfalskdjf
