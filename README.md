@@ -7,3 +7,5 @@ Here is another line in the README.
 I am working on the dev branch. Here is a change.
 
 Add still one more line.
+
+Add a line that will become a merge conflict.
